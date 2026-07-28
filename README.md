@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sham-11/LC/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
