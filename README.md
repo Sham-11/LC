@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sham-11/LC/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sham-11/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sham-11/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -57,8 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
