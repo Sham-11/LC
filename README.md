@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Sham-11/LC/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
