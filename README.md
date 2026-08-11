@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sham-11/LC/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sham-11/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sham-11/LC/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sham-11/LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sham-11/LC/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sham-11/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sham-11/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -91,10 +95,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sham-11/LC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sham-11/LC/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Sham-11/LC/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
