@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sham-11/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sham-11/LC/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
+| [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sham-11/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sham-11/LC/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sham-11/LC/tree/master/0125-valid-palindrome) |
+| [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sham-11/LC/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
