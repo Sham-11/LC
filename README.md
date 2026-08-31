@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sham-11/LC/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sham-11/LC/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sham-11/LC/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Sham-11/LC/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sham-11/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sham-11/LC/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Sham-11/LC/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sham-11/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
