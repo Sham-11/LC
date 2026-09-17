@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sham-11/LC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sham-11/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sham-11/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sham-11/LC/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sham-11/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Sham-11/LC/tree/master/0338-counting-bits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sham-11/LC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sham-11/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sham-11/LC/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
