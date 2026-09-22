@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sham-11/LC/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sham-11/LC/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/Sham-11/LC/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sham-11/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sham-11/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Sham-11/LC/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sham-11/LC/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/Sham-11/LC/tree/master/1390-four-divisors) |
 | [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sham-11/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3871-count-commas-in-range-ii](https://github.com/Sham-11/LC/tree/master/3871-count-commas-in-range-ii) |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Sham-11/LC/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Sham-11/LC/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
