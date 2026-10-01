@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sham-11/LC/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sham-11/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sham-11/LC/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sham-11/LC/tree/master/0066-plus-one) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sham-11/LC/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Sham-11/LC/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sham-11/LC/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sham-11/LC/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Sham-11/LC/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
