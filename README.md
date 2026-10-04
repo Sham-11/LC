@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sham-11/LC/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sham-11/LC/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Sham-11/LC/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sham-11/LC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sham-11/LC/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sham-11/LC/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sham-11/LC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 ## Sliding Window
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sham-11/LC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sham-11/LC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Sham-11/LC/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -213,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sham-11/LC/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
