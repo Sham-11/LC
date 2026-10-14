@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Sham-11/LC/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Sham-11/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sham-11/LC/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Sham-11/LC/tree/master/0739-daily-temperatures) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sham-11/LC/tree/master/1266-minimum-time-visiting-all-points) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Sham-11/LC/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sham-11/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sham-11/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sham-11/LC/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sham-11/LC/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
