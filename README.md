@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sham-11/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sham-11/LC/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sham-11/LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sham-11/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sham-11/LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sham-11/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sham-11/LC/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sham-11/LC/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sham-11/LC/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Sham-11/LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sham-11/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sham-11/LC/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sham-11/LC/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sham-11/LC/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sham-11/LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sham-11/LC/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
